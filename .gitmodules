@@ -1,0 +1,9 @@
+[submodule "sms_classifier"]
+	path = sms_classifier
+	url = https://github.com/KaustubhaRam/sms_classifier.git
+[submodule "titanic_survival_prediction"]
+	path = titanic_survival_prediction
+	url = https://github.com/KaustubhaRam/titanic_survival_predict_bharat_intern.git
+[submodule "dog_and_cat_image_classification"]
+	path = dog_and_cat_image_classification
+	url = https://github.com/KaustubhaRam/dog_and_cat_image_classifier.git
